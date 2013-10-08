@@ -7,8 +7,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 // this is some comment
-public class Logger1 extends HttpServlet{
+public class Logger extends HttpServlet{
 
+    // This is static methiod
     private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(Logger.class.getName());
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
