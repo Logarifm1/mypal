@@ -11,7 +11,7 @@
     <file path="/test.jsp" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381147264225" ignored="false" />
     <file path="/test.html" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381146807812" ignored="false" />
     <file path="/billing.jsp" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381153583166" ignored="false" />
-    <file path="/Logger.java" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381213919492" ignored="false" />
+    <file path="/Logger.java" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381219440940" ignored="false" />
     <file path="/response.jsp" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381154464319" ignored="false" />
     <file path="/fragment.java" changelist="09eda61f-cde3-41ac-8dd8-5a12ed6533d6" time="1381213609204" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,49 +74,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="billing.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/billing.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="7" selection-start="1" selection-end="80" vertical-scroll-proportion="-1.9615384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="-3.5172415">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Logger.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/servlet/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="39" selection-start="949" selection-end="949" vertical-scroll-proportion="1.0232558">
+            <state line="9" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.44476745">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="response.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/response.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -573,8 +537,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="61" width="1277" height="902" extended-state="1" />
-    <editor active="false" />
+    <frame x="65" y="61" width="1277" height="902" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -761,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/in6k/servlet/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="39" selection-start="949" selection-end="949" vertical-scroll-proportion="1.0232558">
+        <state line="9" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.44476745">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -6,7 +6,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public class Logger extends HttpServlet{
+// this is some comment
+public class Logger1 extends HttpServlet{
 
     private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(Logger.class.getName());
 
