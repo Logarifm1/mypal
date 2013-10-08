@@ -12,15 +12,14 @@ public class Logger extends HttpServlet{
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-        String sender = request.getParameter("Sender");
-        String receiver = request.getParameter("Receiver");
-        String amount = request.getParameter("amount");
+            String sender = request.getParameter("Sender");
+            String receiver = request.getParameter("Receiver");
+            String amount = request.getParameter("amount");
 
-        log.info("Sender  sender" + sender);
-        log.info("Sender receiver " + receiver);
-        log.info("Sender amount " + amount);
+            log.info("Sender  sender" + sender);
+            log.info("Sender receiver " + receiver);
+            log.info("Sender amount " + amount);
 
-        request.getRequestDispatcher("/WEB-INF/response.jsp").include(request, response);
-        //response.sendRedirect("/WEB-INF/response.jsp");
-    }
+            request.getRequestDispatcher("/WEB-INF/response.jsp").include(request, response);
+        }
     }
